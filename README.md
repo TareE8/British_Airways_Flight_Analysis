@@ -41,5 +41,5 @@ The analysis utilizes data from [ba_flights_db_data](https://kaggle.com)
 ### Visualizations
 This project
 
-![](images/db1.png)
-![](images/db2.png)
+![](db1.png)
+![](db2.png)
