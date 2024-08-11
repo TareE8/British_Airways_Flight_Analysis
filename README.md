@@ -31,4 +31,11 @@ The analysis utilizes data from [ba_flights_db_data](https://kaggle.com)
 
 ---
 
-  ### Skills Demonstrated
+### Skills Demonstrated
+- Using Microsoft Excel, data was cleaned by removing duplicates and handling missing values.
+- Using PostgresSql, tables were created,the cleaned data was imported and the analysis questions were answered.
+- Using Power Bi, data model was created,dax measures written to make visualizations on the dashboard.
+
+---
+
+### Visualizations
