@@ -41,10 +41,11 @@ The analysis utilizes data from [ba_flights_db_data](https://kaggle.com)
 ### Visualizations
 This project
 
-![](db1.png)
-![](db2.png)
+![](images/db1.png)
+![](images/db2.png)
 
  What manufacturer has the best aircrafts in terms of fuel efficiency?
 
  ![](images/fuel_eff.png)
+
  
