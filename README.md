@@ -43,3 +43,8 @@ This project
 
 ![](db1.png)
 ![](db2.png)
+
+ What manufacturer has the best aircrafts in terms of fuel efficiency?
+
+ ![](images/fuel_eff.png)
+ 
