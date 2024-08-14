@@ -59,3 +59,17 @@ This project
   Which city do passengers travel to the most?
 
  ![](images/passengers_by_city.png) 
+
+---
+
+ ### Findings
+ 1. From this analysis, the manufacturer mitsubishi has the best aircraft in terms of fuel efficiency.
+ 2. During the first half of 2023, British airways used aircrafts from manufacturers with superior fuel efficiency more frequently.
+ 3. It was observed that passengers cancelled flights mostly in the month of April.
+ 4. Also, passengers travelled mostly to London during this time.
+ 5. A total baggage revenue of £34M was generated over time.
+
+---
+
+### Reccommendations
+1. We can improve fuel efficiency by fleet modernization; investing in newer more fuel efficient aircrafts and phase out older less fuel efficient ones.
