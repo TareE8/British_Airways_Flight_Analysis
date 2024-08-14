@@ -48,8 +48,14 @@ This project
 
  ![](images/fuel_eff.png)
 
-  Does British airways tend to use aircraft from manufacturers known for their superior fuel efficiency more frequently?
+ Does British airways tend to use aircraft from manufacturers known for their superior fuel efficiency more frequently?
 
  ![](images/usage_freq.png)
 
- 
+ Which month did passengers cancel flights the most?
+
+  ![](images/cancelled.png)
+
+  Which city do passengers travel to the most?
+
+ ![](images/passengers_by_city.png) 
