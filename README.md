@@ -48,4 +48,8 @@ This project
 
  ![](images/fuel_eff.png)
 
+  Does British airways tend to use aircraft from manufacturers known for their superior fuel efficiency more frequently?
+
+ ![](images/usage_freq.png)
+
  
