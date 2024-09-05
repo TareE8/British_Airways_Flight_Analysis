@@ -39,7 +39,6 @@ The analysis utilizes data from [ba_flights_db_data](https://kaggle.com)
 ---
 
 ### Visualizations
-This project
 
 ![](images/db1.png)
 ![](images/db2.png)
@@ -73,3 +72,7 @@ This project
 
 ### Reccommendations
 1. We can improve fuel efficiency by fleet modernization; investing in newer more fuel efficient aircrafts and phase out older less fuel efficient ones.
+2. With the use of light weight materials for aircraft interiors like seats and trolleys, we can reduce unecessary fuel consumption.
+3. To address the issue of flight cancellation, we could analyse he root cause by investigating in April has historically bad weather that leads to cancellations and consider adjusting schedules or preparing contingency plans.
+4. To improve passenger number to other cities, we should enhance marketting by investing in targetted advertising campaigns focusing on the unique attractions and benefits of flying to and from other cities.
+5. To improve total baggage revenue, we can provide discounts for passengers who prepay for their baggage during the booking process. We can also offer bundled packages that includes baggage fees with other services like priority boarding,inflight meals and seat selection.
